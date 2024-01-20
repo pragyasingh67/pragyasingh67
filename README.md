@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Pragya Singh
 - 👀 I’m interested in Python Projects 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Project
 - 😄 Pronouns: she/Her
 - ⚡ Fun fact: ...
 
